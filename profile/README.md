@@ -3,7 +3,7 @@
 A search engine which only searches for personal websites.
 Websites are only indexed with consent from the website owner.
 
-Similar to https://wiby.me/ but aiming to search personal websites as oppose to simple websites.
+Similar to https://wiby.me/ but aiming to search personal websites as oppose to "retro" websites.
 
 ## How to Contribute
 1. If you have a personal website, submit it to be indexed!
